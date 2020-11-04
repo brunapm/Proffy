@@ -3,7 +3,7 @@
 
 ### Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2a6d95a8-c48d-43b3-99ff-134c0b277b46/deploy-status)](https://app.netlify.com/sites/proffy-brunapm/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a6d95a8-c48d-43b3-99ff-134c0b277b46/deploy-status)](https://proffy-brunapm.netlify.app/)
 
 ### Author
 
